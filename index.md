@@ -4,15 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+## About Me
 
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi there! I am currently a 4th year undergraduate at the University of California, Irvine majoring in Psychological Science BA. I have recently uncovered a deep love for academics, therefore I am studying a breadth of subjects, including but not limited to: Machine Learning, Mathematics, Pathology, Philosophy and AMO Physics. I am especially absorbed in [multimodal learning](https://youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc), [computer vision for medical imaging](https://github.com/peterchang77/dl_tutor/tree/master/cs190), [autonomous vehicles](https://github.com/commaai/openpilot), and [computational game theory](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4). Most of my time these days are being spent at the [Center for Artificial Intelligence in Diagnostic Medicine](https://www.caidm.som.uci.edu/) (CAIDM) and [CMU's Safe AI Lab](https://safeai-lab.github.io/) (SAIL). I am also conducting a study on misinformation through deepfakes in regards to human memory and perception with [Nika Nour](https://www.forbes.com/profile/nika-nour/?sh=2a71ef2f5bcf) and [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). 
+In my free time I like to hang out with my [girlfriend](https://www.instagram.com/k311yk_/) [read](https://www.gutenberg.org/files/996/996-h/996-h.htm), code, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU), and play [League of Legends](https://www.leagueoflegends.com/en-us/). 
 
 ## Header 2
 
