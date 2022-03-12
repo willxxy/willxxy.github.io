@@ -15,10 +15,10 @@ I also love talking to people so please do not hesitate to reach out to wjhan{at
 
 # Education
 
-> University of California, Irvine - Psychological Science BA                   
-> Sep. 2020 ~ Jun. 2022
-> El Camino Community College - Psychology BA *transfer*                        
-> Sep. 2018 ~ Jun. 2020 
+University of California, Irvine - Psychological Science BA                   
+* Sep. 2020 ~ Jun. 2022
+El Camino Community College - Psychology BA *transfer*                        
+* Sep. 2018 ~ Jun. 2020 
 
 
 ## Ongoing Research
