@@ -10,7 +10,7 @@ Hi there! I am currently a 4th year undergraduate at the University of Californi
 
 Most of my time these days are being spent at the [Center for Artificial Intelligence in Diagnostic Medicine](https://www.caidm.som.uci.edu/){:target="_blank"} (CAIDM) and [CMU's Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} (SAIL). I am also conducting a study on misinformation through deepfakes in regards to human memory and perception with [Nika Nour](https://www.forbes.com/profile/nika-nour/?sh=2a71ef2f5bcf){:target="_blank"} and [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/){:target="_blank"}. 
 
-In my free time I like to hang out with my [girlfriend](https://www.instagram.com/k311yk_/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, practice [codeing](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
+In my free time I like to hang out with my [girlfriend](https://www.instagram.com/k311yk_/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
 ## Header 2
 
