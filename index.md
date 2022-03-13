@@ -13,7 +13,7 @@ In my free time I like to hang out with my [girlfriend](https://www.instagram.co
 I also love talking to people so please do not hesitate to reach out to wjhan{at}uci{dot}edu.
 
 
-# Education
+### Education
 
 University of California, Irvine - Psychological Science BA                   
 * Sep. 2020 ~ Jun. 2022
