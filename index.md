@@ -34,6 +34,9 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 *coming soon*
 
 
+## Events
+
+* Participating in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"}<br>Mar. 2022 ~ Apr. 2022
 
 ## Accomplishments
 
