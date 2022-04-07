@@ -25,7 +25,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 * [Osteosarcoma (bone) classification in whole slide images](https://github.com/willxxy/WIKM){:target="_blank"} with CAIDM (*paper in progress*)
 * [Adenocarcinoma (lung) classification in whole slide images](https://github.com/willxxy/WIKM){:target="_blank"} with CAIDM
 * [Blood vessel segmentation in whole slide images](https://github.com/willxxy/blood_vessel_seg){:target="_blank"} with CAIDM
-* Multimodal learning model using physiological signals for identification of psychological disorders with SAIL
+* Multimodal learning model using physiological signals (EEG), text, and videos for identification of psychological disorders with SAIL
 
 
 ## Publications
