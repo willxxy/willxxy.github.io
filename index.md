@@ -8,7 +8,7 @@ Hi there! I am a 4th year undergraduate at the University of California, Irvine 
 
 Most of my time these days are being spent at [UCI's Center for Artificial Intelligence in Diagnostic Medicine](https://www.caidm.som.uci.edu/){:target="_blank"} (CAIDM) and [CMU's Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} (SAIL). 
 
-In my free time I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
+In my free time I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
 I also love talking to people so please do not hesitate to reach out to wjhan{at}uci{dot}edu.
 
