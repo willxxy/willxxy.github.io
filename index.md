@@ -42,7 +42,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 * [Member of the Year Award](https://campusorgs.uci.edu/awards/){:target="_blank"}
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
 * Dean's List 2018 ~ 2022
-* [AI LA Open Innovation Challenge Runner Up](https://open-innovation-challenge.devpost.com/){:target="_blank"} ($2,500)
+* [AI LA Open Innovation Challenge Runner Up (2nd Place: $2,500)](https://devpost.com/software/pests-ai){:target="_blank"} 
 
 ## Personal Projects
 
