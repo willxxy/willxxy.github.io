@@ -35,6 +35,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Events
 
+* Participating in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target]"_blank"}<br> May 2022
 * Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022 ~ Apr. 2022 
 
 ## Accomplishments
