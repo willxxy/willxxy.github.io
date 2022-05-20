@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[*Click Here for my Blog*](./another-page.html).
+
+
 ## About Me
 
 Hi there! I am a 4th year undergraduate at the University of California, Irvine majoring in Psychological Science BA. I am on track to graduate in June 2022! I recently uncovered a deep love for academics, therefore I am studying a breadth of subjects, including but not limited to: Machine Learning, Mathematics, Pathology, Philosophy and AMO Physics. I have been especially fascinated in [multimodal learning](https://youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc){:target="_blank"}, [computer vision for medical imaging](https://github.com/peterchang77/dl_tutor/tree/master/cs190){:target="_blank"}, [autonomous vehicles](https://github.com/commaai/openpilot){:target="_blank"}, [algorithmic topolgy](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf){:target="_blank"}, [analysis and design of algorithms](https://www.edx.org/course/algorithms-design-and-analysis){:target="_blank"}, and [computational game theory](https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4){:target="_blank"}. 
