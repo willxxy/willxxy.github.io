@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [*Click Here for my Blog*](./another-page.html).{:target="_blank"}
+## [*Click Here for my Blog*](./another-page.html){:target="_blank"}
 
 
 ## About Me
