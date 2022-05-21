@@ -9,6 +9,7 @@ of my social life. My unfiltered contemplations are continuous on an anonymous b
 With that said, I want to begin this first post by greeting you, the reader. Hello. Hi. It is nice to meet you. I am glad you are here. I want you to know
 that you are loved. Love. Love is a wonderful subject to explore in my first online post. 
 
-(![image](https://user-images.githubusercontent.com/90741489/169640195-e803a7c4-b19a-45e8-8f4d-23694fc294c2.png))
+
+<img src="/png/Heart_anterior_exterior_view.png" style="height: 100px; width:100px;"/>
 
 The heart is universally known as the symbol of love. But this symbol is contrastive to the one that is shown above 
