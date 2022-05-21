@@ -14,7 +14,7 @@ that you are loved. Love. Love is a wonderful subject to explore in my first onl
 <img src="/png/Heart_anterior_exterior_view.png" style="height: 300; width:100px; display: block; margin: 0 auto"/>
 
 The heart is universally known as the symbol of love. But this symbol is contrastive to the one that is shown above.
-Out of curiosity, I searched up how the '<3' symbol came to be. According to History.com, the known theory stems from a plant, called silphium, that grew on the North African coastline and was used for contraception. The plant's seedlings looks like this:
+Out of curiosity, I searched up how the '<3' symbol came to be. According to History.com, scholars speculate that the symbol stems from a plant, called silphium, that grew on the North African coastline and was used for contraception. The plant's seedlings looks like this:
 
 <img src="/png/silpperf.seeds1.jpg" style="height: 300; width:300px; display: block; margin: 0 auto"/>
 
