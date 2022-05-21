@@ -25,7 +25,14 @@ However, a contrasting example of an exponential derivation is something like th
 <img src="/png/fish to human.jpeg" style="height: 100; width:300px; display: block; margin: 0 auto"/>
 
 Assuming the theory of evolution is true, we can all uniformly marvel at the asymptotic growth of humanity. We have come a long way from single celled
-organisms my friends. I truly believe that occasionally thinking about first principles of existence can be a humbling and mature experience. 
+organisms my friends. Occasionally thinking about first principles of existence can be a humbling and mature experience. 
+
+Well, this is all to say that, similar to love, life's depth is limitless. Every piece of knowledge acquired has come from a snowball of history and 
+existence. We are who we are today due to what has come before. I want to take this blog post to acknowledge this fact and strive for a greater appreciation for the present. I also want to end by thanking you. Thank you for reading this and thank you for being you. 
+
+Well, See Ya! 
+
+
 
 
 
