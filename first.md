@@ -14,11 +14,13 @@ that you are loved. Love. Love is a wonderful subject to explore in my first onl
 
 The heart is universally known as the symbol of love. But this symbol is contrastive to the one that is shown above.
 Out of curiosity, I searched up how the '<3' symbol came to be. According to History.com, the known theory stems from a plant, called silphium, that grew on the North African coastline and was used for contraception. The plant's seedlings looks like this:
+
 <img src="/png/silpperf.seeds1.jpg" style="height: 300; width:300px;" style="display: block; margin: 0 auto"/>
 
 Intersting isn't it? I find it absolutely mind boggling how things, such as this presented symbol of love, can be derived N number of times and eventually 
 evolve into the state that it is in today. It is important to note that in this particular sample, the derivation is not at all far off from its origin.
 However, a contrasting example of an exponential derivation is something like the theory of evolution popularized by Charles Darwin. 
+
 <img src="/png/fish to human.jpeg" style="height: 100; width:300px;" style="display: block; margin: 0 auto"/>
 
 Assuming the theory of evolution is true, we can all uniformly marvel at the asymptotic growth of humanity. We have come a long way from single celled
