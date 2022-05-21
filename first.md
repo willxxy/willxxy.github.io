@@ -1,6 +1,5 @@
-## First Blog
+## Hello World
 
-Hello World. 
 
 I am embarking on my first publicly available blog post. I was inspired to transfer my thoughts to this virtual space such that people may read it and leave
 with a new thought. Due to the nature of the internet and my own perceptions of it, I will apply a thin layer of censorship essential for the longevity and harmony 
