@@ -10,6 +10,6 @@ With that said, I want to begin this first post by greeting you, the reader. Hel
 that you are loved. Love. Love is a wonderful subject to explore in my first online post. 
 
 
-<img src="/png/Heart_anterior_exterior_view.png" style="height: 100px; width:100px;"/>
+<img src="/png/Heart_anterior_exterior_view.png" style="height: 300; width:100px;"/>
 
 The heart is universally known as the symbol of love. But this symbol is contrastive to the one that is shown above 
