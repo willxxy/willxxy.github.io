@@ -6,4 +6,6 @@ layout: default
 
 ### [Hello World - May 20, 2022](./first.html){:target="_blank"}
 
+### [Thinking Out Loud - May 24, 2022](./second.html){:target="_blank"}
+
 [Return to Main Page](./)
