@@ -2,7 +2,7 @@
 
 
 I should probably be doing my work, but I decided to reflect upon a great conversation with a dear friend. A bittersweet trait about the work that I do is that it is endless. I am never, truly done with work. 
-This is attributed by the fact that my work is in fact, learning, and I absolutely adore it. I love discovering new things and I want to spend my life
+This is attributed by the fact that my 'work' is learning, and I absolutely adore it. I love discovering new things and I want to spend my life
 doing it. However, I have to admit, sometimes I wish there was some kind of end goal. Whether it is a [grand prize](https://en.wikipedia.org/wiki/Turing_Award){:target="_blank"}
 or emeritus status, I occassionally fantasize about a grand finale in research. 
 
