@@ -1,4 +1,4 @@
-## Machine Learning
+## Intro to Machine Learning
 
 Ever since I joined the [AI Club at UCI](https://aiclub.ics.uci.edu/){:target="_blank"} back in September 2021, I have been 
 furiously studying machine learning. Machine learning is something that is quite magical, and the last 50 to 70 years of research in statistics, neural
@@ -14,8 +14,8 @@ algorithms as something that maps inputs to desired outputs through a model whos
 
 I would say that there are three different kinds of machine learning algorithms: 1) Traditional Statistics; 2) Traditional Machine Learning; 3) Neural Networks. 
 
-An example of a traditional statistical machine learning algorithm can be something like $`y = mx + b`$. 
-As we all learned in middle school, $`x`$, $`y`$ denotes the input and output, and $`m`$, $`b`$ represents the variable parameters (slope and intercept).
+An example of a traditional statistical machine learning algorithm can be something like `y = mx + b`. 
+As we all learned in middle school, `x`, `y` denotes the input and output, and `m`, `b` represents the variable parameters (slope and intercept).
 Traditional statistics is extremely good at finding linear relationships between variables but when data becomes more obscure and abstract, traditional machine learning algorithms tend to outperform in determining correlations. 
 
 To battle complex inputs and non-linearity, traditional machine learning algorithms try to refine complex data (e.g. image) into numbers represented as a vector.
@@ -28,7 +28,7 @@ This distillation is called feature extraction and machine learning algorithms a
 It is important to note that these features do not need to be complex. However, in practice, data is multidimensional, therefore 
 a huge amount of research has gone into transforming N-dimensional feature vector projections to something computers can understand. 
 Given these feature vectors, the most common function machine learning algorithms face is classification, which can be described as making predictions with existing data. 
-I will not describe any specific classification algorithm, but here is a list of them for you to explore: 
+I will not go over any specific traditional machine learning algorithm, but here is a list of them for you to explore: 
 - [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine){:target="_blank"}
 - [k-Nearest Neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm){:target="_blank"}
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/){:target="_blank"}
@@ -60,4 +60,5 @@ I used for myself.
 
 References
 (1) [Machine Learning Definition](https://uci.yuja.com/V/MediaFile?mediaFile=420457&node=15536234&a=1231719205&autoplay=1){:target="_blank"}
-(2) [Neurla Networks](https://www.ibm.com/cloud/learn/neural-networks){:target="_blank"}
+
+(2) [Neural Networks](https://www.ibm.com/cloud/learn/neural-networks){:target="_blank"}
