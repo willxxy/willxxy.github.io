@@ -8,4 +8,6 @@ layout: default
 
 ### [Thinking Out Loud - May 24, 2022](./blog/second.html){:target="_blank"}
 
+### [Intro to Machine Learning - May 28, 2022](./blog/third.html){:target="_blank"}
+
 [Return to Main Page](./)
