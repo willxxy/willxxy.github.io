@@ -43,7 +43,7 @@ Now, what if there are no apparent features or parameters within a dataset? This
 Neural networks were inspired by the activity of biological neurons in the human brain. Each circle in the image above is represented as a node, and there are 
 three main layers that comprises a neural network: the input layer, hidden layer, and output layer. Each node is linked to another and has an assigned weight and 
 threshold. If the output of any individual node is above a specified threshold value, the node is activated and sends the data to the next layer of the network (2). Otherwise,
-no data is passed. A neural network with n > 1 hidden layers is categorized as a deep neural network. Voice recognition, autnomous vehicles, facial recognition are some of the many tasks
+no data is passed. A neural network with n > 1 hidden layers is categorized as a deep neural network. Voice recognition, autonomous vehicles, facial recognition are some of the many tasks
 deep neural networks have made possible. 
 
 Although neural networks have been able to do amazing things, an important con to note is that it requires huge amounts of data. Luckily, there are many areas of research in 
