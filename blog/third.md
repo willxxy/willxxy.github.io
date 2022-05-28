@@ -59,6 +59,7 @@ I used for myself.
 
 
 References
+
 (1) [Machine Learning Definition](https://uci.yuja.com/V/MediaFile?mediaFile=420457&node=15536234&a=1231719205&autoplay=1){:target="_blank"}
 
 (2) [Neural Networks](https://www.ibm.com/cloud/learn/neural-networks){:target="_blank"}
