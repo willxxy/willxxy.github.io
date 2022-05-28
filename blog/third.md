@@ -12,7 +12,7 @@ algorithms as something that maps inputs to desired outputs through a model whos
 <img src="/png/machine_learning.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
 
 
-I would say that there are three different kinds of machine learning algorithms: 1) Traditional Statistics; 2) Traditional Machine Learning; 3) Neural Networks. 
+Additionally, I would also agree with Dr. Chang in that there are three different kinds of machine learning algorithms (1): 1) Traditional Statistics; 2) Traditional Machine Learning; 3) Neural Networks. 
 
 An example of a traditional statistical machine learning algorithm can be something like `y = mx + b`. 
 As we all learned in middle school, `x`, `y` denotes the input and output, and `m`, `b` represents the variable parameters (slope and intercept).
