@@ -38,12 +38,13 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Events
 
-* Participating in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target]"_blank"}<br> May 2022
+* Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target]"_blank"}<br> May 2022 - June 2022
 * Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022 ~ Apr. 2022 
 
 ## Accomplishments
 
-* [AI LA Open Innovation Challenge Runner Up (2nd Place: $2,500)](https://devpost.com/software/pests-ai){:target="_blank"} 
+* [UCI's ML Hackathon 2022 Runner Up (2nd Place](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}
+* [AI LA Open Innovation Challenge Runner Up (2nd Place)](https://devpost.com/software/pests-ai){:target="_blank"} 
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
 * [Member of the Year Award](https://campusorgs.uci.edu/awards/){:target="_blank"}
 * Dean's List 2018 ~ 2022
