@@ -40,7 +40,7 @@ This distillation is called feature extraction and machine learning algorithms c
 It is important to note that these features do not need to be complex. However, in practice, data is multidimensional, therefore 
 a huge amount of research has gone into transforming N-dimensional feature vector projections to something computers can understand. 
 Given these feature vectors, the most common function machine learning algorithms face is classification, which can be described as making predictions with existing data. 
-I will not go over any specific traditional machine learning algorithm, but here is a list of them for you to explore: 
+I will not go over any specific traditional machine learning algorithms, but here is a list of them for you to explore: 
 - [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine){:target="_blank"}
 - [k-Nearest Neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm){:target="_blank"}
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/){:target="_blank"}
