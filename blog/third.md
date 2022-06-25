@@ -61,7 +61,7 @@ deep neural networks have made possible.
 Although neural networks have been able to do amazing things, an important con to note is that it requires huge amounts of data. Luckily, there are many areas of research in 
 the machine learning community dedicated in solving complex problems with neural networks given very limited data. 
 
-I hope you enjoyed my very brief introductino to machine learning. If you are curious to learn more about this fascinating topic, I will provide a list of resources
+I hope you enjoyed my very brief introduction to machine learning. If you are curious to learn more about this fascinating topic, I will provide a list of resources
 I used for myself. 
 - [Machine Learning Course by Andrew Ng](https://www.coursera.org/learn/machine-learning){:target="_blank"}
 - [Machine Learning Course by freeCodeCamp](https://www.youtube.com/watch?v=NWONeJKn6kc&t=50s){:target="_blank"}
