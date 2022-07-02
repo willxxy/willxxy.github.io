@@ -21,7 +21,8 @@ taking on multiple projects, research positions, and most recently, another inte
 I feel overwhelmingly burnt out, but at the same time, energized, motivated, and passionate. Thankfully, God has provided me something that I truly love doing and I am eternally grateful.
 
 In parallel, I never feel truly satisfied with what I am doing. I have more than enough on my plate, but I am always looking for the next thing to do (currently, it is taking the GRE and get into graduate school).
-What strikes me is that my relationship with my family and friends has never been better. My relationship with God can always be better, but I can wholeheartedly proclaim that I am an adopted, beloved child of God. 
+What strikes me is that my relationship with my family and friends has never been better. My relationship with God can always be better, but I can wholeheartedly proclaim that I am an adopted, beloved child of God. I do not understand why things are going so well for me, in a worldly sense. I want to 
+get closer to God and fix my gaze upon Him, but He just keeps on providing me with blessings. Maybe it is His way of showing love to me. I genuinely have no idea. All I can confirm is that he can take away everything, just as he has gave everything to me. And when that moment comes, I do not know if I will be spiritually prepared. 
 
 While I was reading this autobiographical section of the book, I felt a sense of closeness. God is sending me on a wonderful journey in learning the value of patience and slowing down. 
 I also want to emphasize that this problem of hurry is pathological and urgent. I can see it's damage to not only my life but the people's lives around me as well. 
@@ -35,4 +36,5 @@ and be what I was made to be: a child of God. It is so easy to get swept up and 
 Thank you for reading this first reflection, and I hope to see you again!
 
 References
+
 [1] [M-W Definition of Hurry](https://www.merriam-webster.com/dictionary/hurry){:target:"_blank"}
