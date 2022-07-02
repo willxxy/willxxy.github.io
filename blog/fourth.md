@@ -35,4 +35,4 @@ and be what I was made to be: a child of God. It is so easy to get swept up and 
 Thank you for reading this first reflection, and I hope to see you again!
 
 References
-[1] [M-W Definition of Hurry](https://www.merriam-webster.com/dictionary/hurry){target:"_blank"}
+[1] [M-W Definition of Hurry](https://www.merriam-webster.com/dictionary/hurry){:target:"_blank"}
