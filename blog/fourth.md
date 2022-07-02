@@ -1,4 +1,4 @@
-##The Rutheless Elimination of Hurry by John Mark Comer - 1
+## The Ruthless Elimination of Hurry by John Mark Comer - 1
 
 In this blog, I will reflect on the first 28 pages of John Mark Comer's *The Ruthless Elimination of Hurry.*
 
@@ -9,13 +9,13 @@ It is a state of frantic effort one falls into in response to inadequacy, fear, 
  
 The Merriam-Webster dictionary defines hurry as 'disturbed or disorderly activity,' 'to carry or cause to go with haste, 'to impel to rash or precipitate action.'
 
-While I was reading the first couple sections, I thought that the author was very blunt, yet practical. Comer begins with a biographical background, alongisde his own struggles
+While I was reading the first couple sections, I thought that the author was very blunt, yet practical. Comer begins with a biographical background, alongside his own struggles
 with hurry. As a head pastor at a megachurch for over ten years, Comer has had his fair share of busyness. 6 out of 7 days of the week, his schedule is filled with
 back to back activities, with little to no time for himself, his relationship with his family, and most importantly, his relationship with God. 
 
 This really hit home for me. To be honest, ever since I got out of high school, I felt a suffocating amount of pressure and hurry. While I was at community college,
 I was in a hurry to transfer. After I transferred to UCI, I was frantically trying to make new connections and 'uncover my passion.' The last 9 to 10 months has been the most busy
-time of my life. I finished off my internship at Mosaic Laboratories while self-teaching myself programming. I was constantly interviewing for a full time job after university alongside 
+time of my life. I finished off my internship at Mosaic Laboratories while self-teaching myself programming. I was constantly interviewing for a full time job after university in conjunction with 
 taking on multiple projects, research positions, and most recently, another internship.
 
 I feel overwhelmingly burnt out, but at the same time, energized, motivated, and passionate. Thankfully, God has provided me something that I truly love doing and I am eternally grateful.
