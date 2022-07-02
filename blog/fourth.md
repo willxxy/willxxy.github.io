@@ -14,14 +14,14 @@ with hurry. As a head pastor at a megachurch for over ten years, Comer has had h
 back to back activities, with little to no time for himself, his relationship with his family, and most importantly, his relationship with God. 
 
 This really hit home for me. To be honest, ever since I got out of high school, I felt a suffocating amount of pressure and hurry. While I was at community college,
-I was in a hurry to transfer. After I transferred to UCI, I was frantically trying to make new connections and 'uncover my passion.' The last 9 to 10 months has been the most busy
+I was in a hurry to transfer. After I transferred to UCI, I was frantically trying to make new connections and 'uncover my passion.' The last 9 to 10 months has been the busiest
 time of my life. I finished off my internship at Mosaic Laboratories while self-teaching myself programming. I was constantly interviewing for a full time job after university in conjunction with 
 taking on multiple projects, research positions, and most recently, another internship.
 
 I feel overwhelmingly burnt out, but at the same time, energized, motivated, and passionate. Thankfully, God has provided me something that I truly love doing and I am eternally grateful.
 
-In parallel, I never feel truly satisfied with what I am doing. I have more than enough on my plate, but I am always looking for the next thing to do (currently, it is taking the GRE and get into graduate school).
-What strikes me is that my relationship with my family and friends has never been better. My relationship with God can always be better, but I can wholeheartedly proclaim that I am an adopted, beloved child of God. I do not understand why things are going so well for me, in a worldly sense. I want to 
+In parallel, I am never satisfied with what I am doing. I have more than enough on my plate, but I am always looking for the next thing to do (currently, it is taking the GRE and get into graduate school).
+What strikes me is that my relationship with my family and friends has never been better. My relationship with God can always improve, but I can wholeheartedly proclaim that I am an adopted, beloved child of God. I do not understand why things are going so well for me, in a worldly sense. I want to 
 get closer to God and fix my gaze upon Him. Maybe it is His way of showing love to me. I genuinely have no idea. All I can confirm is that He can take away everything, just as He has gave everything to me. And when that moment comes, I do not know if I will be spiritually prepared. 
 
 While I was reading this autobiographical section of the book, I felt a sense of closeness. God is sending me on a journey in learning the value of patience and slowing down. 
