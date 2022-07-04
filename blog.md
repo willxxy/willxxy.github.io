@@ -12,5 +12,6 @@ layout: default
 
 ### [The Ruthless Elimination of Hurry by John Mark Comer - 1](./blog/fourth.html){:target="_blank"}
 
+### [The Ruthless Elimination of Hurry by John Mark Comer - 2](./blog/fifth.html){:target="_blank"}
 
 [Return to Main Page](./)
