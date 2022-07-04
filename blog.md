@@ -10,8 +10,8 @@ layout: default
 
 ### [Intro to Machine Learning - May 28, 2022](./blog/third.html){:target="_blank"}
 
-### [The Ruthless Elimination of Hurry by John Mark Comer - 1](./blog/fourth.html){:target="_blank"}
+### [The Ruthless Elimination of Hurry by John Mark Comer (1) - July 1, 2022](./blog/fourth.html){:target="_blank"}
 
-### [The Ruthless Elimination of Hurry by John Mark Comer - 2](./blog/fifth.html){:target="_blank"}
+### [The Ruthless Elimination of Hurry by John Mark Comer (2) - July 3, 2022](./blog/fifth.html){:target="_blank"}
 
 [Return to Main Page](./)
