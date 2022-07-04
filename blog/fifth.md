@@ -1,6 +1,6 @@
-##Cybersecurity 
+## Cybersecurity 
 
-Today was a wonderful day. I went to church, had lunch with some dear friends, spent the evening with my non-biological brother, finished reading pages 28-43 of Comer’s **The Ruthless Elimination of Hurry,** and plan on executing my night by writing this blog and working on my research with CMU. 
+Today was a wonderful day. I went to church, had lunch with some dear friends, spent the evening with my non-biological brother, finished reading pages 28-43 of Comer’s *The Ruthless Elimination of Hurry,* and plan on executing my night by writing this blog and working on my research with CMU. 
 
 God is present today. 
 
@@ -12,7 +12,7 @@ I received a wonderful sermon by Pastor James about priorities and heart. Where 
 
 All of these things piled on top of each other, normally, I would be panicking or wallowing in the low self-worth that I fabricated. But, God is good and he has absolutely spoken to me today: ‘Trust in Me.’ 
 
-I’ve heard this saying thousands of times but today I *heard* it. Trust is something that we, as humans, need. Sadly, it is deeply missing in the world we live in. Because of lack of trust in others and even the self, we go through immense measures to retrieve temporary security. And before this temporary security runs dry, we try to create or imitate reliability as quickly and smoothly as possible. 
+I’ve heard this saying thousands of times but today I **heard** it. Trust is something that we, as humans, need. Sadly, it is deeply missing in the world we live in. Because of lack of trust in others and even the self, we go through immense measures to retrieve temporary security. And before this temporary security runs dry, we try to create or imitate reliability as quickly and smoothly as possible. 
 
 This theoretical concept can be intercorrelated with today’s reading. Comer extensively goes over the timeline of technological advances and reviews their tradeoffs. With the invention of the clock, we were able to schedule and organize our days accordingly. With the lightbulb, we became our own masters of when the day should start. With various labor-saving devices, such as laundry machines and dishwashers, we expanded the time to do other things instead of furiously grating clothes on a ribbed rack. When computers and the internet were born, the world was more streamline than ever. With one click of a button, you can communicate how your day went to a relative across the world in a matter of seconds.  As we arrive in the 21st century, nearly every person on the earth has access to a cellular device that fits inside one’s pockets with more compute power than the rocket shuttles that flew to the moon. 
 
