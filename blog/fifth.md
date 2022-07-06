@@ -4,7 +4,7 @@ Today was a wonderful day. I went to church, had lunch with some dear friends, s
 
 God is present today. 
 
- When I woke up today, I felt rushed. I woke up a bit late for church, consequently leading to my tardiness to the 11:30 AM service. In my lateness, while I was approaching church, I saw an all too familiar car behind me and with this hunch, I called my non-biological brother, Kevin Kim, and asked if he was the black Hyundai Tucson tailgating me. He answered my question with a comedic observation: ‘I see that you are late for church.’ Man, I love that guy. 
+When I woke up, I felt rushed because I was going to be late for the 11:30 AM service at church. In my lateness, while I was approaching church, I saw an all too familiar car behind me. I acted upon this hunch by calling my non-biological brother, Kevin Kim, and asked if he was the black Hyundai Tucson tailgating me. He answered my question with a comedic observation: ‘I see that you are late for church.’ Man, I love that guy. 
 
 At that point in time, I speculated that today was going to be a splendid day. 
 
