@@ -38,7 +38,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Accomplishments
 
-* [UCI's ML Hackathon 2022 Runner Up (2nd Place)](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}
+* [UCI's ML Hackathon 2022 Runner Up (2nd Place)](https://www.cs.uci.edu/uci-ml-repository-highlights-four-impactful-projects-at-2022-ml-hackathon/){:target="_blank"}
 * [AI LA Open Innovation Challenge Runner Up (2nd Place)](https://devpost.com/software/pests-ai){:target="_blank"} 
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
 * [Member of the Year Award](https://campusorgs.uci.edu/awards/){:target="_blank"}
