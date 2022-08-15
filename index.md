@@ -23,7 +23,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Ongoing Research
 
-* Exploring a multimodal coordinated representation between physiological signals (EEG) and text for identification of emotions with CMU SAIL
+* Blood vessel segmentation with CAIDM
 
 
 ## Publications
