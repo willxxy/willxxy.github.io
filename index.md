@@ -28,12 +28,14 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Publications
 
-*coming soon*
+An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
+William Han^{*}, [Jielin Qiu^{*}](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
+Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 
 
 ## Events
 
-* Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target]"_blank"}<br> May 2022 - June 2022
+* Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}<br> May 2022 - June 2022
 * Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022 ~ Apr. 2022 
 
 ## Accomplishments
