@@ -53,6 +53,7 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 
 ## Personal Projects
 
+* [Comma.ai Calibration Challenge](https://github.com/willxxy/calib_challenge){:target="_blank"}
 * [Simultaneous Localization and Mapping (SLAM)](https://github.com/willxxy/slam-python){:target="_blank"}
 * Continuous [Learning](https://github.com/willxxy/Learning){:target="_blank"}
 
