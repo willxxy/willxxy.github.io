@@ -7,11 +7,11 @@ layout: default
 
 ## About Me
 
-Hi there! On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. I am currently employed as a Machine Learning Engineer Intern at [Foretify.ai](https://www.foretify.ai/){:target="_blank"}. I am also a research intern at [CMU's Safe AI Lab (SAIL)](https://safeai-lab.github.io/){:target="_blank"} and [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}. My research interests lie in multimodal learning, computer vision in medical images, autonomous vehicles, and algorithmic game theory. 
+On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. I am currently employed as a Machine Learning Engineer Intern at [Foretify.ai](https://www.foretify.ai/){:target="_blank"}. I am also a research intern at [CMU's Safe AI Lab (SAIL)](https://safeai-lab.github.io/){:target="_blank"} and [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}. My research interests lie in multimodal learning, computer vision in medical images, autonomous vehicles, and algorithmic game theory. 
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
-I also love talking to people so please do not hesitate to reach out to wjhan{at}uci{dot}edu.
+I love meeting new people so please do not hesitate to reach out to wjhan{at}uci{dot}edu.
 
 
 ### Education
