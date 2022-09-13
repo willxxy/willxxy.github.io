@@ -1,11 +1,11 @@
 ## Correlations Between Thinking and Advancement in Technologies
 
-**Prompt:
+**Prompt:**
 
 As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate. 
 
 
-**Response:
+**Response:**
 
 Let us first define the phrase "think for themselves" by deriving contextual information from the prompt. 
 The prompt implies that technologies have some kind of ability to "think" and solve problems in place of humans, therefore minimizing the humans' ability and opportunity to think for themselves.
