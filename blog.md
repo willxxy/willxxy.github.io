@@ -16,4 +16,6 @@ layout: default
 
 ### [The Ruthless Elimination of Hurry by John Mark Comer (2) - July 8, 2022](./blog/sixth.html){:target="_blank"}
 
+### [Prompt:Response (0) - September, 13, 2022](./blog/seventh.html){:target="_blank"}
+
 [Return to Main Page](./)
