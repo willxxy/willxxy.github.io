@@ -36,11 +36,11 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 
 ## Events
 
-* Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022 ~ Present
-* Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}<br> May 2022 ~ Jun. 2022
-* Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022 ~ Apr. 2022
-* Started research at Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"}<br> Mar. 2022 ~ Present
-* Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021 ~ Present
+* Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022
+* Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}<br> May 2022
+* Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022
+* Started research at Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"}<br> Mar. 2022
+* Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021
 
 ## Accomplishments
 
