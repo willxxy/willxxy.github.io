@@ -25,6 +25,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 * Vision and language undestanding in micormobility applications with HRI
 * Multimodal embodied AI with CMU SAIL
+* Cardiovascular disease prediction using ECG signals and ECG reports with CMU SAIL
 * Blood vessel segmentation with CAIDM
 
 
