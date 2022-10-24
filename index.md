@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## [*Click Here for my Blog*](./blog.html)
+<!-- ## [*Click Here for my Blog*](./blog.html) -->
 
 
 ## About Me
 
-On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. I am currently employed as a Research Intern at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"}. I am also a research intern at [CMU's Safe AI Lab (SAIL)](https://safeai-lab.github.io/){:target="_blank"} and [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}. My research interests lie in multimodal learning, computer vision in medical images, autonomous vehicles, and algorithmic game theory. 
+On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. My research interests lie in multimodal learning, computer vision, reinforcement learning, and game theory in machine learning. 
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
@@ -25,8 +25,6 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 * Vision and language undestanding in micormobility applications with HRI
 * Multimodal embodied AI with CMU SAIL
-* Cardiovascular disease prediction using ECG signals and ECG reports with CMU SAIL
-* Blood vessel segmentation with CAIDM
 
 
 ## Publications
@@ -52,13 +50,6 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
 * [Member of the Year Award](https://campusorgs.uci.edu/awards/){:target="_blank"}
 * Dean's List 2018 ~ 2022
-
-
-## Personal Projects
-
-* [Comma.ai Calibration Challenge](https://github.com/willxxy/calib_challenge){:target="_blank"}
-* [Simultaneous Localization and Mapping (SLAM)](https://github.com/willxxy/slam-python){:target="_blank"}
-* Continuous [Learning](https://github.com/willxxy/Learning){:target="_blank"}
 
 
 * * *
