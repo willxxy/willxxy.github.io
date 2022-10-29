@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. My research interests lie in multimodal learning, computer vision, reinforcement learning, machine learning applications in healthcare, and game theory in machine learning. 
+On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. Currently, my research lies in the fields of multimodal learning, computer vision, reinforcement learning, and embodied agents. 
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
@@ -21,19 +21,6 @@ University of California, Irvine - Psychological Science BA<br>Sep. 2020 ~ Jun. 
 El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020 
 
 
-## Ongoing Research
-
-* Vision and language undestanding in micormobility applications with HRI
-* Multimodal embodied AI with CMU SAIL
-
-
-## Publications
-
-An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
-William Han<sup>*</sup>, [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
-Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"} 
-
-
 ## Events
 
 * Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022
@@ -42,6 +29,14 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 * Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022
 * Started research at Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"}<br> Mar. 2022
 * Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021
+
+
+## Publications
+
+An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
+William Han<sup>*</sup>, [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
+Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"} 
+
 
 ## Accomplishments
 
