@@ -31,7 +31,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 * Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021
 
 
-## Publications
+## Publications and Preprints
 
 An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
 William Han<sup>*</sup>, [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
