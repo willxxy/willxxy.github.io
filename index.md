@@ -9,7 +9,7 @@ layout: default
 
 On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. Currently, my research lies in the fields of multimodal learning, computer vision, reinforcement learning, and embodied agents. 
 
-When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, practice [coding](https://www.hackerrank.com/){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
+When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
 I love meeting new people so please do not hesitate to reach out to wjhan{at}uci{dot}edu.
 
