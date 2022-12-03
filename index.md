@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. Currently, my research interest is in training machine learning systems utilizing multiple modalities for applications in natural language processing, computer vision, and robotics. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
+On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. Currently, my research interest is in multimodal learning for applications in natural language processing, computer vision, and robotics. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}, and play [League of Legends](https://www.leagueoflegends.com/en-us/){:target="_blank"}. 
 
