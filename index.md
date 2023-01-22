@@ -37,7 +37,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?<br>
 [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, William Han<sup>*</sup>, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Michael Rosenberg](https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ){:target="_blank"}, [Emerson Liu](https://www.linkedin.com/in/emerson-liu-950479/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
-EACL 2023 / arxiv preprint coming soon
+**EACL 2023** / arxiv preprint coming soon
 
 An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
 William Han<sup>*</sup>, [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
