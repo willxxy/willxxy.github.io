@@ -23,6 +23,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Events
 
+* One paper accepted by EACL 2023<br> Jan. 2023
 * Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022
 * Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022 - Oct. 2022
 * Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}<br> May 2022 - Jun. 2022
@@ -31,7 +32,12 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 * Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021 - Nov. 2022
 
 
-## Publications and Preprints
+## Publications and Preprints<br>
+* denotes equal contribution
+
+Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?<br>
+[Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, William Han<sup>*</sup>, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Michael Rosenberg](https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ){:target="_blank"}, [Emerson Liu](https://www.linkedin.com/in/emerson-liu-950479/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
+EACL 2023 / arxiv preprint coming soon
 
 An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram<br>
 William Han<sup>*</sup>, [Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, [Mengdi Xu](https://mxu34.github.io/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
