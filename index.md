@@ -23,6 +23,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Events
 
+* I will be joining Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} as a PhD student this coming Fall!<br>Sep. 2023
 * One paper accepted by EACL 2023<br> Jan. 2023
 * Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022
 * Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022 - Oct. 2022
