@@ -7,14 +7,16 @@ layout: default
 
 ## About Me
 
-On June 2022, I graduated from the University of California, Irvine with a BA in Psychological Science. Currently, my research interest is in multimodal learning for applications in natural language processing, computer vision, and robotics. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
+I am an incoming PhD student for the [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} at Carnegie Mellon University, advised by [Dr. Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}. I recieved my BA in Psychological Science at the University of California, Irvine. Currently, my research interest is in multimodal learning for applications in natural language processing, computer vision, and robotics. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
 
-When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn chinese](https://www.duolingo.com/learn){:target="_blank"}, and watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}. 
+When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn Mandarin](https://www.duolingo.com/learn){:target="_blank"}, and watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}. 
 
 I love meeting new people so please do not hesitate to reach out to willhan327{at}gmail{dot}com.
 
 
 ### Education
+
+Carnegie Mellon University - Mechanical Engineering PhD<br>Sep. 2023
 
 University of California, Irvine - Psychological Science BA<br>Sep. 2020 ~ Jun. 2022
 
@@ -23,6 +25,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 ## Events
 
+* I will be joining Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} as a PhD student this coming Fall!<br>Sep. 2023
 * One paper accepted by EACL 2023<br> Jan. 2023
 * Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022
 * Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022 - Oct. 2022
