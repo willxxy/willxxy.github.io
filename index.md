@@ -7,7 +7,7 @@ layout: default
 
 ## About Me
 
-I am an incoming PhD student for the [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} at Carnegie Mellon University, advised by [Dr. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}. I recieved my BA in Psychological Science at the University of California, Irvine. Currently, my research interest is in multimodal learning for applications in robotics. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
+I am an incoming PhD student for the [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} at Carnegie Mellon University, advised by [Dr. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}. I recieved my BA in Psychological Science at the University of California, Irvine. Currently, my research interest is in multimodal learning for applications in robotics and healthcare. I am also interested in translation, alignment, fusion, co-learning, and representation of multimodal data.
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn Mandarin](https://www.duolingo.com/learn){:target="_blank"}, and watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}. 
 
