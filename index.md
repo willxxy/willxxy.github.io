@@ -39,7 +39,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 <sup>*</sup> denotes equal contribution
 
 Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding<br>
-[Jielin Qiu](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, Shiqi Liu, William Han, Jingqi Zhang, Chaojing Duan, [Michael Rosenberg](https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ){:target="_blank"}, [Emerson Liu](https://www.linkedin.com/in/emerson-liu-950479/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
+[Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu<sup>*</sup>](https://jiachengzhuml.github.io/){:target="_blank"}, Shiqi Liu, William Han, Jingqi Zhang, Chaojing Duan, [Michael Rosenberg](https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ){:target="_blank"}, [Emerson Liu](https://www.linkedin.com/in/emerson-liu-950479/){:target="_blank"}, [Douglas Weber](https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html){:target="_blank"}, [Ding Zhao](https://safeai-lab.github.io/){:target="_blank"}<br>
 Under Review / [arxiv](https://arxiv.org/abs/2304.06286){:target="_blank"} 
 
 Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?<br>
