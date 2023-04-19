@@ -27,12 +27,12 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 
 * I will be joining Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} as a PhD student this coming Fall!<br>Sep. 2023
 * One paper accepted by EACL 2023<br> Jan. 2023
-* Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022
+* Started working at [Honda Research Institue (HRI)](https://usa.honda-ri.com/){:target="_blank"} as a Research Intern<br> Oct. 2022 - Apr. 2023
 * Started working at [Foretify.ai](https://www.foretify.ai/){:target="_blank"} as a Machine Learning Engineer Intern<br> Jun. 2022 - Oct. 2022
 * Participated in [UCI's ML Hackathon 2022](https://uci-ml-repo.github.io/events/hackathon22/){:target="_blank"}<br> May 2022 - Jun. 2022
 * Participated in [AI LA's Open Innovation Challenge 2022](https://www.joinai.la/events/open-innovation-challenge-spring-2022){:target="_blank"} - [pests.ai](https://github.com/willxxy/AILAOI){:target="_blank"}<br>Mar. 2022 - Apr. 2022
-* Started research at Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"}<br> Mar. 2022
-* Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"}<br> Dec. 2021 - Nov. 2022
+* Started research at Carnegie Mellon University's [Safe AI Lab](https://safeai-lab.github.io/){:target="_blank"} as a Research Intern <br> Mar. 2022 - Mar. 2023
+* Started research at [UCI's Center for Artifical Intelligence in Diagnostic Medicine (CAIDM)](https://www.caidm.som.uci.edu/){:target="_blank"} as a Research Intern <br> Dec. 2021 - Nov. 2022
 
 
 ## Publications and Preprints<br>
