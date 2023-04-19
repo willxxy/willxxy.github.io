@@ -11,7 +11,7 @@ I am an incoming PhD student for the [Safe AI Lab](https://safeai-lab.github.io/
 
 When I am not doing research, I like to hang out with my [friends](https://www.instagram.com/wearchives/){:target="_blank"}, [read](https://www.gutenberg.org/files/996/996-h/996-h.htm){:target="_blank"}, [learn Mandarin](https://www.duolingo.com/learn){:target="_blank"}, and watch [YouTube videos](https://www.youtube.com/watch?v=gEmHmlXrWdU){:target="_blank"}. 
 
-I love meeting new people so please do not hesitate to reach out to willhan327{at}gmail{dot}com.
+I love meeting new people so please do not hesitate to reach out to wjhan{at}andrew{dot}cmu{dot}edu.
 
 
 ### Education
