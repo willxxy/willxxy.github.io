@@ -57,6 +57,7 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 
 ## Accomplishments
 
+* Graduate Research Fellowship from College of Engineering, CMU 2023 - 2028
 * [UCI's ML Hackathon 2022 Runner Up (2nd Place)](https://www.cs.uci.edu/uci-ml-repository-highlights-four-impactful-projects-at-2022-ml-hackathon/){:target="_blank"}
 * [AI LA Open Innovation Challenge Runner Up (2nd Place)](https://devpost.com/software/pests-ai){:target="_blank"} 
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
