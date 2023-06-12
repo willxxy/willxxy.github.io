@@ -38,8 +38,12 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 ## Publications and Preprints<br>
 <sup>*</sup> denotes equal contribution
 
+Embodied Executable Policy Learning with Language-based Scene Summarization<br>
+[Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"},[Mengdi Xu<sup>*</sup>](https://mxu34.github.io/){:target="_blank"}, **William Han**<sup>*</sup>, [Seungwhan Moon](https://shanemoon.com/){:target="_blank"}, [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}<br>
+Under Review / [arxiv](https://arxiv.org/abs/2306.05696){:target="_blank"}
+
 MultiSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos<br>
-[Jielin Qiu](https://www.cs.cmu.edu/~jielinq/){:target="_blank"} , [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"} , **William Han**, [Aditesh Kumar](https://aramuk.github.io/){:target="_blank"} , [Karthik Mittal](https://www.linkedin.com/in/karthikmittal/){:target="_blank"} , [Claire Jin](https://www.linkedin.com/in/claire-jin-a1474420a/){:target="_blank"},[Zhengyuan Yang](https://zyang-ur.github.io/){:target="_blank"}, [Linjie Li](https://scholar.google.com/citations?user=WR875gYAAAAJ&hl=en){:target="_blank"} , [Jianfeng Wang](https://scholar.google.com/citations?user=vJWEw_8AAAAJ&hl=en){:target="_blank"} , [Bo Li](https://aisecure.github.io/){:target="_blank"} , [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"} , [Lijuan Wang](https://scholar.google.com/citations?user=cDcWXuIAAAAJ&hl=zh-CN){:target="_blank"}<br>
+[Jielin Qiu](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Jiacheng Zhu](https://jiachengzhuml.github.io/){:target="_blank"}, **William Han**, [Aditesh Kumar](https://aramuk.github.io/){:target="_blank"}, [Karthik Mittal](https://www.linkedin.com/in/karthikmittal/){:target="_blank"}, [Claire Jin](https://www.linkedin.com/in/claire-jin-a1474420a/){:target="_blank"}, [Zhengyuan Yang](https://zyang-ur.github.io/){:target="_blank"}, [Linjie Li](https://scholar.google.com/citations?user=WR875gYAAAAJ&hl=en){:target="_blank"}, [Jianfeng Wang](https://scholar.google.com/citations?user=vJWEw_8AAAAJ&hl=en){:target="_blank"}, [Bo Li](https://aisecure.github.io/){:target="_blank"}, [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}, [Lijuan Wang](https://scholar.google.com/citations?user=cDcWXuIAAAAJ&hl=zh-CN){:target="_blank"}<br>
 Under Review / [arxiv](https://arxiv.org/abs/2306.04216){:target="_blank"} 
 
 Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding<br>
