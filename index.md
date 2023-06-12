@@ -39,7 +39,7 @@ El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020
 <sup>*</sup> denotes equal contribution
 
 Embodied Executable Policy Learning with Language-based Scene Summarization<br>
-[Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"},[Mengdi Xu<sup>*</sup>](https://mxu34.github.io/){:target="_blank"}, **William Han**<sup>*</sup>, [Seungwhan Moon](https://shanemoon.com/){:target="_blank"}, [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}<br>
+[Jielin Qiu<sup>*</sup>](https://www.cs.cmu.edu/~jielinq/){:target="_blank"}, [Mengdi Xu<sup>*</sup>](https://mxu34.github.io/){:target="_blank"}, **William Han**<sup>*</sup>, [Seungwhan Moon](https://shanemoon.com/){:target="_blank"}, [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html){:target="_blank"}<br>
 Under Review / [arxiv](https://arxiv.org/abs/2306.05696){:target="_blank"}
 
 MultiSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos<br>
