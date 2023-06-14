@@ -18,9 +18,9 @@ I love meeting new people so please do not hesitate to reach out to wjhan{at}and
 
 Carnegie Mellon University - Mechanical Engineering PhD<br>Sep. 2023
 
-University of California, Irvine - Psychological Science BA<br>Sep. 2020 ~ Jun. 2022
+University of California, Irvine - Psychological Science BA<br>Sep. 2020 - Jun. 2022
 
-El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 ~ Jun. 2020 
+El Camino Community College - Psychology BA *transfer*<br>Sep. 2018 - Jun. 2020 
 
 
 ## Events
@@ -66,7 +66,7 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 * [AI LA Open Innovation Challenge Runner Up (2nd Place)](https://devpost.com/software/pests-ai){:target="_blank"} 
 * Project Proposal Winner for the [AI Club at UCI](https://aiclub.ics.uci.edu){:target="_blank"}
 * [Member of the Year Award](https://campusorgs.uci.edu/awards/){:target="_blank"}
-* Dean's List 2018 ~ 2022
+* Dean's List 2018 - 2022
 
 
 ## Services
