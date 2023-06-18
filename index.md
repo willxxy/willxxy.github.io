@@ -15,7 +15,7 @@ I love meeting new people so please do not hesitate to reach out to wjhan{at}and
 
 <style>
   .logo {
-    float: left;
+    float: right;
     margin-right: 10px;
   }
 </style>
