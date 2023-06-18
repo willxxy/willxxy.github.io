@@ -22,9 +22,9 @@ I love meeting new people so please do not hesitate to reach out to wjhan{at}and
 
 ### Education
 
-Carnegie Mellon University - Mechanical Engineering PhD<img class="logo" src="png/cmu.jpg" alt="CMU Logo" width="50" height="50"><br>Sep. 2023
+<img class="logo" src="png/cmu.jpg" alt="CMU Logo" width="50" height="50">Carnegie Mellon University - Mechanical Engineering PhD<br>Sep. 2023
 
-University of California, Irvine - Psychological Science BA<img class="logo" src="png/uci.png" alt="UCI Logo" width="50" height="50"><br>Sep. 2020 - Jun. 2022
+<img class="logo" src="png/uci.png" alt="UCI Logo" width="50" height="50">University of California, Irvine - Psychological Science BA<br>Sep. 2020 - Jun. 2022
 
 ## Events
 
