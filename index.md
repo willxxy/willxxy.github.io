@@ -69,7 +69,4 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 
 * **Reviewer:** CVPR (2023), NeurIPS (2023), ICML (2023)
 
-## Affiliations
-<img class="logo" src="png/cmu.jpg" alt="CMU Logo" width="1" height="50"><img class="logo" src="png/uci.png" alt="UCI Logo" width="50" height="50">
-
 * * *
