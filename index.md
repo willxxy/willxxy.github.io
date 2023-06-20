@@ -13,18 +13,11 @@ When I am not doing research, I like to hang out with my [friends](https://www.i
 
 I love meeting new people so please do not hesitate to reach out to wjhan{at}andrew{dot}cmu{dot}edu.
 
-<style>
-  .logo {
-    float: right;
-    margin-right: 10px;
-  }
-</style>
-
 ### Education
 
-<img class="logo" src="png/cmu.jpg" alt="CMU Logo" width="50" height="50">Carnegie Mellon University - Mechanical Engineering PhD<br>Sep. 2023
+Carnegie Mellon University - Mechanical Engineering PhD<br>Sep. 2023
 
-<img class="logo" src="png/uci.png" alt="UCI Logo" width="50" height="50">University of California, Irvine - Psychological Science BA<br>Sep. 2020 - Jun. 2022
+University of California, Irvine - Psychological Science BA<br>Sep. 2020 - Jun. 2022
 
 ## Events
 
@@ -75,5 +68,8 @@ Under Review / [arxiv](https://arxiv.org/abs/2208.06348){:target="_blank"}
 ## Services
 
 * **Reviewer:** CVPR (2023), NeurIPS (2023), ICML (2023)
+
+## Affiliations
+<img class="logo" src="png/cmu.jpg" alt="CMU Logo" width="1" height="50"><img class="logo" src="png/uci.png" alt="UCI Logo" width="50" height="50">
 
 * * *
