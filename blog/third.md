@@ -12,9 +12,6 @@ algorithms as something that maps inputs to desired outputs through a model whos
   <img src="/png/machine_learning.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
 </p>
 
-<img src="/png/machine_learning.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
-
-
 Let's break this down. First, what is an algorithm? The Oxford dictionary defines it as 'a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.' So, in our case, the process or set of rules to be followed is to map inputs to desired outputs. The calculations or problem-solving operations would be performed in the model, and the parameters would be the variables that need to be computed while interacting with the inputs and outputs. These parameters than need to be exposed to an arbitrary set of data in a repetitive manner for it to 'train.' To further explain what the word 'trained' means in the definition, I believe a real-world example would be best.
 
 
