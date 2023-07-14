@@ -8,6 +8,9 @@ So with that, I want to start this attempt to introduce machine learning with a 
 a radiologist by training and Co-Director of the [Center for Artificial Intelligence in Diagnostic Medicine](https://www.caidm.som.uci.edu/){:target="_blank"}. He defines machine learning
 algorithms as something that maps inputs to desired outputs through a model whose parameters may be trained through iterative exposure to data (1). 
 
+<p align="center">
+  <img src="/png/machine_learning.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
+</p>
 
 <img src="/png/machine_learning.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
 
@@ -34,9 +37,9 @@ Traditional statistics is extremely good at finding linear relationships between
 To battle complex inputs and non-linearity, traditional machine learning algorithms try to refine complex data (e.g. image) into numbers represented as a vector.
 This distillation is called feature extraction and machine learning algorithms can capture rich traits of the data, such as spatial context, multi-resolution, locality, and globality. 
 
-
-<img src="/png/mnist.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
-
+<p align="center">
+  <img src="/png/mnist.png" style="height: 100; width:300px; display: block; margin: 0 auto"/>
+</p>
 
 It is important to note that these features do not need to be complex. However, in practice, data is multidimensional, therefore 
 a huge amount of research has gone into transforming N-dimensional feature vector projections to something computers can understand. 
@@ -49,9 +52,9 @@ I will not go over any specific traditional machine learning algorithms, but her
 
 Now, what if there are no apparent features or parameters within a dataset? This is where neural networks shine. 
 
-
-<img src="/png/network.png" style="height: 200; width:400px; display: block; margin: 0 auto"/>
-
+<p align="center">
+  <img src="/png/network.png" style="height: 200; width:400px; display: block; margin: 0 auto"/>
+</p>
 
 Neural networks were inspired by the activity of biological neurons in the human brain. Each circle in the image above is represented as a node, and there are 
 three main layers that comprises a neural network: the input layer, hidden layer, and output layer. Each node is linked to another and has an assigned weight and 
