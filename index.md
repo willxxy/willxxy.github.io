@@ -1,8 +1,4 @@
----
-layout: default
----
 
-<!-- ## [*Click Here for my Blog*](./blog.html) -->
 
 
 ## About Me
