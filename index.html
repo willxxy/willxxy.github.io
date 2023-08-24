@@ -6,13 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Academic Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <style>
+    
+        .social-icon{
+          text-decoration: none;
+        }
+    /*     ion-icon {
+      color: blue; */
+    /* } */
+        
+      </style>
 </head>
 
 <body>
-    <header>
-        <h1>William Jongwon Han</h1>
-        <p>1st year PhD Student at Carnegie Mellon University</p>
+    <header style="display: flex; align-items: center;">
+        <div>
+            <h1>
+                William Jongwon Han 
+                <a href="https://github.com/willxxy" target="_blank" style="text-decoration: none;">
+                    <img src="png/25231.png" alt="github" width="24" height="24">
+                </a>
+                <a href="https://scholar.google.com/citations?hl=en&user=YcoJfMMAAAAJ" target="_blank" style="text-decoration: none;">
+                <img src="png/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="scholar" width="24" height="24">
+                </a>
+
+                <a href="https://twitter.com/wjongwonhan" target="_blank" style="text-decoration: none;">
+                <img src="png/Twitter social icons - circle - blue.png" alt="twitter" width="24" height="24">
+                </a>
+                
+                <a href="png/William_Han_CV.pdf" target="_blank" style="text-decoration: none;">
+                 <img src="png/cv.png" alt="cv" width="24" height="24"></a>
+            </h1>
+            <p>1st year PhD Student at Carnegie Mellon University</p>
+        </div>
+        <!-- Other content or icons can be placed here -->
     </header>
+    
+    
 
     <!-- <nav>
         <ul>
@@ -28,8 +59,8 @@
         <h2>About Me</h2>
         <p>I am a PhD student for the <a href="https://safeai-lab.github.io/" target="_blank">Safe AI Lab</a> at Carnegie Mellon University, 
             advised by <a href="https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html" target="_blank">Prof. Ding Zhao</a>. 
-            I received my BA in Psychological Science at the University of California, Irvine. Currently, my research interest is in multimodal 
-            learning for cognition, robotics, and healthcare. I am also interested in translation, alignment, fusion, co-learning, and representation 
+            I received my BA <br>in Psychological Science at the University of California, Irvine. Currently, my research interest is in multimodal 
+            learning for <br>cognition, robotics, and healthcare. I am also interested in translation, alignment, fusion, co-learning, and representation 
             of multimodal data.</p>
         <p>When I am not doing research, I like to hang out with my <a href="https://www.instagram.com/wearchives/" target="_blank">friends</a>, 
             <a href="https://www.gutenberg.org/files/996/996-h/996-h.htm" target="_blank">read</a>, <a href="https://www.duolingo.com/learn" target="_blank">learn Mandarin</a>, 
@@ -44,13 +75,68 @@
 
     <section id="publications">
         <h2>Publications and Preprints</h2>
-        <p><sup>*</sup> denotes equal contribution</p>
+        <sup>*</sup> denotes equal contribution
         <!-- Example of publication, you can duplicate the format for other publications -->
         <ul>
-            <li>Embodied Executable Policy Learning with Language-based Scene Summarization<br>
-            <!-- Authors list and publication details here, using anchor tags for hyperlinks -->
-            </li>
-            <!-- Add other list items for each publication, similar to above -->
+            <li><strong>Embodied Executable Policy Learning with Language-based Scene Summarization</strong><br>
+            
+                <a href="https://www.cs.cmu.edu/~jielinq/" target="_blank">Jielin Qiu<sup>*</sup></a>,
+                <a href="https://mxu34.github.io/" target="_blank">Mengdi Xu<sup>*</sup></a>,
+                <strong>William Han<sup>*</sup></strong>,
+                <a href="https://shanemoon.com/" target="_blank">Seungwhan Moon</a>,
+                <a href="https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html" target="_blank">Ding Zhao</a><br>
+                <strong>ICML 2023 ILHF Workshop</strong> / <a href="https://arxiv.org/abs/2306.05696" target="_blank">arxiv</a><br>
+                <br>
+            <li><strong>MultiSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos</strong><br>
+                <a href="https://www.cs.cmu.edu/~jielinq/" target="_blank">Jielin Qiu</a>,
+                <a href="https://jiachengzhuml.github.io/" target="_blank">Jiacheng Zhu</a>,
+                <strong>William Han</strong>,
+                <a href="https://aramuk.github.io/" target="_blank">Aditesh Kumar</a>,
+                <a href="https://www.linkedin.com/in/karthikmittal/" target="_blank">Karthik Mittal</a>,
+                <a href="https://www.linkedin.com/in/claire-jin-a1474420a/" target="_blank">Claire Jin</a>,
+                <a href="https://zyang-ur.github.io/" target="_blank">Zhengyuan Yang</a>,
+                <a href="https://scholar.google.com/citations?user=WR875gYAAAAJ&hl=en" target="_blank">Linjie Li</a>,
+                <a href="https://scholar.google.com/citations?user=vJWEw_8AAAAJ&hl=en" target="_blank">Jianfeng Wang</a>,
+                <a href="https://aisecure.github.io/" target="_blank">Bo Li</a>,
+                <a href="https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html" target="_blank">Ding Zhao</a>,
+                <a href="https://scholar.google.com/citations?user=cDcWXuIAAAAJ&hl=zh-CN" target="_blank">Lijuan Wang</a><br>
+                Under Review / <a href="https://arxiv.org/abs/2306.04216" target="_blank">arxiv</a><br>
+                <br>
+            <li><strong>Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding</strong><br>
+                <a href="https://www.cs.cmu.edu/~jielinq/" target="_blank">Jielin Qiu<sup>*</sup></a>,
+                <a href="https://jiachengzhuml.github.io/" target="_blank">Jiacheng Zhu<sup>*</sup></a>,
+                Shiqi Liu,
+                <strong>William Han</strong>,
+                Jingqi Zhang,
+                Chaojing Duan,
+                <a href="https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ" target="_blank">Michael Rosenberg</a>,
+                <a href="https://www.linkedin.com/in/emerson-liu-950479/" target="_blank">Emerson Liu</a>,
+                <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html" target="_blank">Douglas Weber</a>,
+                <a href="https://safeai-lab.github.io/" target="_blank">Ding Zhao</a><br>
+                Under Review / <a href="https://arxiv.org/abs/2304.06286" target="_blank">arxiv</a><br>
+                <br>
+            <li><strong>Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?</strong><br>
+                <a href="https://www.cs.cmu.edu/~jielinq/" target="_blank">Jielin Qiu<sup>*</sup></a>,
+                <strong>William Han<sup>*</sup></strong>,
+                <a href="https://jiachengzhuml.github.io/" target="_blank">Jiacheng Zhu</a>,
+                <a href="https://mxu34.github.io/" target="_blank">Mengdi Xu</a>,
+                <a href="https://scholar.google.com/citations?hl=en&user=o0Y0GLcAAAAJ" target="_blank">Michael Rosenberg</a>,
+                <a href="https://www.linkedin.com/in/emerson-liu-950479/" target="_blank">Emerson Liu</a>,
+                <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html" target="_blank">Douglas Weber</a>,
+                <a href="https://safeai-lab.github.io/" target="_blank">Ding Zhao</a><br>
+                <strong>EACL 2023 Findings</strong> / <a href="https://arxiv.org/abs/2301.09017" target="_blank">arxiv</a><br>
+                <br>
+            <li><strong>An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram</strong><br>
+                <strong>William Han<sup>*</sup></strong>,
+                <a href="https://www.cs.cmu.edu/~jielinq/" target="_blank">Jielin Qiu<sup>*</sup></a>,
+                <a href="https://jiachengzhuml.github.io/" target="_blank">Jiacheng Zhu</a>,
+                <a href="https://mxu34.github.io/" target="_blank">Mengdi Xu</a>,
+                <a href="https://www.meche.engineering.cmu.edu/directory/bios/weber-douglas.html" target="_blank">Douglas Weber</a>,
+                <a href="https://aisecure.github.io/" target="_blank">Bo Li</a>,
+                <a href="https://safeai-lab.github.io/" target="_blank">Ding Zhao</a><br>
+                <strong>ICML 2023 MLHC Workshop</strong> / <a href="https://arxiv.org/abs/2208.06348" target="_blank">arxiv</a><br>
+                </li>
+                
         </ul>
     </section>
 
@@ -68,7 +154,8 @@
         times since March 13, 2022.</p>
         
     </footer>
-
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
 
 </html>
